@@ -1,18 +1,15 @@
-# chatAppInAndroidStudio
-This chat app is created in android studio using java and firebase
-Some of the Output screens
-![image](https://user-images.githubusercontent.com/64765400/119440006-5a5e0100-bcd8-11eb-88fb-0712bb223f78.png)
+# chatAPP
 
-![image](https://user-images.githubusercontent.com/64765400/119440053-706bc180-bcd8-11eb-8bb7-2f0b6c5c43df.png)
+![0](https://user-images.githubusercontent.com/109708302/209510323-c0c2b38a-ca9a-4551-b006-6202b77ea3c9.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209507328-982ddf84-e328-43f3-9385-37054602de83.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209507418-3fe46836-5b3a-4099-bb96-6c6c9710ee2d.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209507428-7005c5b9-c101-4df2-bd47-bc219cf15fef.jpg)
 
-![image](https://user-images.githubusercontent.com/64765400/119440063-75307580-bcd8-11eb-8da2-f3629f67c145.png)
+![0](https://user-images.githubusercontent.com/109708302/209507535-65190e70-e97e-436a-8a85-47ccbe9598e7.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209507636-2a4e13e7-8f22-44ef-bfa6-1b99f0d09cff.jpg)
 
-![image](https://user-images.githubusercontent.com/64765400/119440078-7f527400-bcd8-11eb-97bc-287362d5d764.png)
-
-![image](https://user-images.githubusercontent.com/64765400/119440082-82e5fb00-bcd8-11eb-9c99-3dfeae3e17ee.png)
-
-![image](https://user-images.githubusercontent.com/64765400/119440112-91ccad80-bcd8-11eb-9bba-8e7c24034da4.png)
-
-![image](https://user-images.githubusercontent.com/64765400/119440138-9b561580-bcd8-11eb-8cdf-76c3a6a4d902.png)
-
-![image](https://user-images.githubusercontent.com/64765400/119440156-a14bf680-bcd8-11eb-9818-2533a8f1dfa4.png)
+![0](https://user-images.githubusercontent.com/109708302/209507471-d277646a-b786-4f56-a272-d915539d30eb.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209508038-50ef4ea4-18cf-4514-84bb-f3c0b321397f.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209508097-2af69806-12e3-4862-a23f-f2a35537a3f6.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209508163-2abbdae7-1ed7-4078-a85c-f9fe97c25088.jpg)
+![0](https://user-images.githubusercontent.com/109708302/209510468-9ddf0111-dbf8-4deb-99d2-23bf63aa7921.jpg)
